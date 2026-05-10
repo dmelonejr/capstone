@@ -5,6 +5,7 @@
 ### Author: D. Melone, Jr., 2026-05-10
 ---
 ## Data Sources (Appendix)
+Data sources are listed below in lieu of hosting files from the project. Files can be requested by emailing donald.d.melone-1@ou.edu
 
 ### NOAA Disaster Data
 
