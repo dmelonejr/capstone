@@ -6,6 +6,7 @@
 ---
 ## Data Sources (Appendix)
 Data sources are listed below in lieu of hosting files from the project. Files can be requested by emailing donald.d.melone-1@ou.edu
+Be sure to visit the "Data" branch for ArcGIS Pro plotted layouts in image format.
 
 ### NOAA Disaster Data
 
