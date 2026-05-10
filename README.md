@@ -99,9 +99,9 @@ Includes:
 - Symbology set to **Unique Values**
 - `X` and `OPEN WATER` layers deselected for visual clarity
 - *Select By Attributes* used with inverted query:
+--FLD_ZONE = 'OPEN WATER'
+--OR FLD_ZONE = 'X'
 
-```sql
-FLD_ZONE = 'OPEN WATER'
-OR FLD_ZONE = 'X'
-  Post Storm imagery
-    “ArcGIS.” Arcgis.com, 2026, www.arcgis.com/home/item.html?id=2dc2428b306d4ec1bf2a9cf747270d09. Accessed 10 May 2026.
+### Post Storm imagery
+
+- “ArcGIS.” Arcgis.com, 2026, www.arcgis.com/home/item.html?id=2dc2428b306d4ec1bf2a9cf747270d09. Accessed 10 May 2026.
