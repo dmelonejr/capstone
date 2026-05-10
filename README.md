@@ -1,5 +1,9 @@
-# Capstone Readme
+# GEOG-6973-999 Capstone (Readme)
 
+## Title: Using Flood Risk and Property Data to Assess Public Asset Vulnerability in Pinellas County, Florida
+
+### Author: D. Melone, Jr., 2026-05-10
+---
 ## Data Sources (Appendix)
 
 ### NOAA Disaster Data
