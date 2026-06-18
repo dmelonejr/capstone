@@ -1,12 +1,14 @@
 # GEOG-6973-999 Capstone (Readme)
 
-## Title: Using Flood Risk and Property Data to Assess Public Asset Vulnerability in Pinellas County, Florida
+### Project Title: Using Flood Risk and Property Data to Assess Public Asset Vulnerability in Pinellas County, Florida
 
 ### Author: D. Melone, Jr., 2026-05-10
 ---
-## Data Sources (Appendix)
-Data sources are listed below in lieu of hosting files from the project. Files can be requested by emailing donald.d.melone-1@ou.edu
-
+### Data Sources (Appendix)
+Data sources are listed below in lieu of hosting files from the project (file size limit is 100 mb; total directory file size = 1.175 gb). 
+* Files can be requested by emailing donald.d.melone-1@ou.edu
+* Be sure to visit the "Data" branch for ArcGIS Pro plotted layouts in image format.
+---
 ### NOAA Disaster Data
 
 - “2024 United States NOAA Billion-Dollar Disaster Location and Type Map.” *NOAA Climate.gov*, 2024.  
@@ -27,8 +29,6 @@ Data sources are listed below in lieu of hosting files from the project. Files c
   <https://www.arcgis.com/home/item.html?id=aba72d66b4774235ab07fcada57aa8e6>  
   Accessed 10 May 2026.
 
----
-
 ### Pinellas County Parcel Data
 
 - “Pinellas_ParcelPropertyInfo (FeatureServer).” *ArcGIS REST Services*, 2026.  
@@ -41,15 +41,11 @@ Data sources are listed below in lieu of hosting files from the project. Files c
 - `JUST_VALUE` (property value)
 - `ACRES`
 
----
-
 ### Pinellas County Land Use Planning
 
 - “Pinellas_LandUseProposed_view (FeatureServer).” *ArcGIS REST Services*, 2026.  
   <https://services.arcgis.com/f5HgUpxURgEzTccH/arcgis/rest/services/Pinellas_LandUseProposed_view/FeatureServer>  
   Accessed 10 May 2026.
-
----
 
 ### Pinellas County Park Boundaries
 
@@ -57,23 +53,17 @@ Data sources are listed below in lieu of hosting files from the project. Files c
   <https://services.arcgis.com/f5HgUpxURgEzTccH/arcgis/rest/services/Pinellas_ParkBoundaries_view/FeatureServer>  
   Accessed 10 May 2026.
 
----
-
 ### Emergency Management Shelters
 
 - “Pinellas_PCEM_Shelters_view (FeatureServer).” *ArcGIS REST Services*, 2026.  
   <https://services.arcgis.com/f5HgUpxURgEzTccH/arcgis/rest/services/Pinellas_PCEM_Shelters_view/FeatureServer>  
   Accessed 10 May 2026.
 
----
-
 ### Planning Unincorporated Zoning (2019)
 
 - “Pinellas_Zoning2019_view (FeatureServer).” *ArcGIS REST Services*, 2019.  
   <https://services.arcgis.com/f5HgUpxURgEzTccH/arcgis/rest/services/Pinellas_Zoning2019_view/FeatureServer>  
   Accessed 10 May 2026.
-
----
 
 ### Pinellas County Municipality Map
 
